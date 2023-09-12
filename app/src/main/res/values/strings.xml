@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Tour Bandung Juara</string>
+    <string name="tours_name">Nama Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="name">Rifky Al Mukmin Rachmat</string>
+    <string name="email">rifkyalmukmin@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="Value">16dp</string>
+    <string name="todo">TODO</string>
+    <string name="picture_list">TODO</string>
+
+
+    <string-array name="data_name">
+        <item>Curug Tilu Leuwi Opat</item>
+        <item>Gunung Puntang Bandung</item>
+        <item>Kawah Putih Ciwidey</item>
+        <item>Perkebunan Rancabali</item>
+        <item>Rancaupas</item>
+        <item>Situ Cileunca</item>
+        <item>Situ Cisanti</item>
+        <item>Situ Patenggang</item>
+        <item>Tangkuban Perahu</item>
+        <item>Tebing Keraton</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Di kawasan Parongpong, dekat Lembang, adalah destinasi trekking yang menarik. Selain keindahan air terjun dan sungainya, kamu bisa camping dan outbond dengan fasilitas seru seperti Flying Fox dan Body Rafting.Air terjunnya tinggi dan berbahaya, jadi perlu hati-hati. Suasana sejuk dan air yang dingin membuat liburan di sini semakin asyik dan menyegarkan.</item>
+        <item>Gunung Puntang adalah obyek wisata alam di Bandung yang cocok untuk hiking dan trekking dengan panorama alam yang menakjubkan. Suasana alami dan bangunan tua peninggalan Belanda menambah daya tariknya. Tempat wisata di Bandung ini menjadi favorit para pecinta alam dan camping di sana akan menambah keseruan liburan di alam terbuka.</item>
+        <item>Gunung Tangkuban Perahu adalah wisata alam populer di Bandung, terletak di kawasan Lembang. Spot-spot menarik seperti perbukitan hijau dan berbagai kawah (kawah Ratu, kawah Domas, kawah Jurig, dll) menjadi daya tarik utama tempat ini. Selalu ramai dikunjungi wisatawan lokal maupun mancanegara, lokasinya sekitar 30 km dari Bandung dengan jam operasional 07.00-17.00 WIB. Cocok sebagai destinasi wisata keluarga untuk berselfie dan wefie dengan latar alam yang menakjubkan</item>
+        <item>Kawah Putih merupakan tempat wisata terkenal di Bandung yang menawarkan keindahan danau terbentuk dari letusan gunung Patuha. Kawasan ini memiliki tanah berwarna putih dan air danau yang berwarna hijau. Terletak di ketinggian 2400 mdpl dengan suhu udara yang dingin, pengunjung disarankan mengenakan pakaian tebal. Meskipun dingin, pemandangan alam di sana sangat mempesona.</item>
+        <item>Jawa Barat, terutama Bandung, merupakan penghasil teh terbesar di Indonesia. Kebun teh Rancabali di Patengan, Bandung, adalah salah satu kawasan kebun teh yang populer dikunjungi wisatawan. Lokasinya di dataran tinggi, memberikan suasana yang adem dan nyaman untuk bersantai. Cocok untuk melepas penat dari kesibukan perkotaan. Saat liburan, kunjungi kebun teh ini dan abadikan background hijau kebun teh dalam selfiemu yang menarik.</item>
+        <item>Ranca Upas adalah tempat wisata terbuka yang sempurna untuk refreshing dan berkemah di Bandung. Di sini, kamu dapat menikmati pemandangan alam yang menakjubkan dan suhu udara yang dingin, terutama saat malam hari saat berkemah. Tersedia juga kolam renang dengan Waterboom untuk menambah keseruan liburanmu di Ranca Upas.</item>
+        <item>Sebuah danau seluas 1400 hektar, menjadi destinasi wisata populer di kalangan masyarakat Bandung Selatan. Di sini, kamu bisa menikmati pemandangan alam yang indah, dilengkapi dengan Kebun Stroberi yang menarik. Selain menikmati panorama danau, kamu juga bisa memetik stroberi dan menjadikannya oleh-oleh, dengan harga tertentu per kilogramnya.</item>
+        <item>Sebuah danau kecil namun mempesona dengan keindahan alamnya. Dikelilingi oleh gunung-gunung seperti Gunung Wayang dan Gunung Malabar, lokasi ini terasa begitu menakjubkan. Berdekatan dengan Kebun Teh Pangelangan, Situ Cisanti menjadi tempat wisata populer di Bandung. Pemandangan alam sekitar danau yang menawan membuatnya menjadi spot instagenic yang cocok untuk selfie.</item>
+        <item>Situ Patenggang menawarkan suasana alami dan nyaman dengan ketinggian 1600 mdpl yang memberikan udara sejuk. Pemandangan alam yang indah dikelilingi tebing-tebing dan perbukitan dengan hijaunya pepohonan. Kamu juga dapat melihat kebun teh yang menyegarkan mata. Ada fasilitas Pondokan untuk bermalam jika ingin menginap.</item>
+        <item>Tebing Keraton adalah destinasi wisata yang sempurna untuk bersantai dan melepaskan penat. Tempat ini menawarkan pemandangan alam yang luar biasa, dengan panorama perbukitan dan hutan yang indah. Kamu dapat menikmati pemandangan sunrise di pagi hari dan sunset di sore hari. Terkadang, lokasi ini juga dipenuhi kabut putih yang tebal, menciptakan suasana seakan berada di atas awan. Dari ketinggian, kamu bisa melihat keindahan miniatur kota Bandung. Wisata ini juga memiliki harga masuk yang terjangkau, meskipun perlu perjalanan untuk mencapai puncak bukit seperti wisata lain di kawasan pegunungan. </item>
+    </string-array>
+
+    <integer-array name="data_Photo">
+        <item>@drawable/curug_tilu_leuwi_opat</item>
+        <item>@drawable/gunung_puntang_bandung</item>
+        <item>@drawable/gunung_tangkuban_perahu</item>
+        <item>@drawable/kawah_putih_ciwidey</item>
+        <item>@drawable/perkebunan_teh_rancabali</item>
+        <item>@drawable/rancaupas</item>
+        <item>@drawable/situ_cileunca</item>
+        <item>@drawable/situ_cisanti</item>
+        <item>@drawable/situ_patenggang</item>
+        <item>@drawable/tebing_keraton</item>
+    </integer-array>
+</resources>
